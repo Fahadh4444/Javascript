@@ -13,6 +13,13 @@ for(let i = 0; i < myStates.length; i++){
     console.log(myStates[i]);
 }
 
+// var i = 0;
+// for(;;){
+//     if(i > 3) break;
+//     console.log(i);
+//     i++;
+// }
+
 const myStatesi = [
     "Andhra Pradesh",
     "Telangana",
